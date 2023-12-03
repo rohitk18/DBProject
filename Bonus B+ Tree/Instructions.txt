@@ -1,0 +1,1 @@
+Implement a B+ tree index and integrate it into the project.  Show at demo time for bonus points.  You must show how your system uses the B+ tree throughout the project (query compiler, optimizer, execution, etc). 
